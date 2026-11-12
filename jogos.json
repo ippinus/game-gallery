@@ -117,5 +117,110 @@
         "plataforma": "PS4",
         "ano": 2024,
         "nota": 10
+    },
+    {
+        "nome": "Battlefield 4",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Borderlands 2",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2026,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare (2019)",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Dark Souls lll",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2026,
+        "nota": 10
+    },
+    {
+        "nome": "Dark Souls: Remastered",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Far Cry 5",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2025,
+        "nota": 7
+    },
+    {
+        "nome": "The Crew 2 🏆",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2025,
+        "nota": 9
+    },
+    {
+        "nome": "Tom Clancy's Ghost Recon Wildlands",
+        "capa": "img/pc/pc-steam-cover.png",
+        "plataforma": "PC - Steam",
+        "ano": 2024,
+        "nota": 9
+    },
+    {
+        "nome": "Borderlands",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2024,
+        "nota": 7
+    },
+    {
+        "nome": "Borderlands 2",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2024,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty 4: Modern Warfare",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare 2 Remastered",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "PowerWhash Simulator",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Saints Row (2022)",
+        "capa": "img/pc/pc-epic-cover.png",
+        "plataforma": "PC - Epic Games",
+        "ano": 2025,
+        "nota": 6
+    },
+    {
+        "nome": "Black",
+        "capa": "img/pc/pc-cover.png",
+        "plataforma": "PC - Port",
+        "ano": 2026,
+        "nota": 10
     }
 ]
