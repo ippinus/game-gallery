@@ -1,0 +1,121 @@
+[
+    {
+        "nome": "Ace Combat 2",
+        "capa": "img/ps1/ace-2.png",
+        "plataforma": "PS1",
+        "ano": 2023,
+        "nota": 10
+    },
+    {
+        "nome": "Placeholder PS1",
+        "capa": "img/ps1/ps1-cover.png",
+        "plataforma": "PS1",
+        "ano": 2999,
+        "nota": 99
+    },
+    {
+        "nome": "25 To Life",
+        "capa": "img/ps2/25-to-life.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 7
+    },
+    {
+        "nome": "Ace Combat 04: Shattered Skies",
+        "capa": "img/ps2/ace-4.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 10
+    },
+    {
+        "nome": "Black",
+        "capa": "img/ps2/black.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty: Big Red One",
+        "capa": "img/ps2/cod-2-big.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 7
+    },
+    {
+        "nome": "Call of Duty: Finest Hour",
+        "capa": "img/ps2/cod-finest.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 7
+    },
+    {
+        "nome": "Dragon Ball Z: Budokai 3",
+        "capa": "img/ps2/dbz-budokai-3.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 8
+    },
+    {
+        "nome": "God of War (2005)",
+        "capa": "img/ps2/god-1.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 9
+    },
+    {
+        "nome": "God of War ll",
+        "capa": "img/ps2/god-2.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 9
+    },
+    {
+        "nome": "Need for Speed: Most Wanted",
+        "capa": "img/ps2/nfs-mw.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 9
+    },
+    {
+        "nome": "Need for Speed: Underground 2",
+        "capa": "img/ps2/nfs-u2.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 8
+    },
+    {
+        "nome": "Saint Seiya: The Hades",
+        "capa": "img/ps2/ss-hades.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 8
+    },
+    {
+        "nome": "True Crime: New York City",
+        "capa": "img/ps2/true-crime.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 6
+    },
+    {
+        "nome": "Placeholder PS2",
+        "capa": "img/ps2/ps2-cover.png",
+        "plataforma": "PS2",
+        "ano": 2999,
+        "nota": 99
+    },
+    {
+        "nome": "Placeholder PS3",
+        "capa": "img/ps3/ps3-cover.png",
+        "plataforma": "PS3",
+        "ano": 2999,
+        "nota": 99
+    },
+    {
+        "nome": "Bloodborne",
+        "capa": "img/ps4/ps4-cover.png",
+        "plataforma": "PS4",
+        "ano": 2024,
+        "nota": 10
+    }
+]
