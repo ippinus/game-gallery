@@ -1,0 +1,534 @@
+[
+    {
+        "nome": "Ace Combat 2",
+        "capa": "assets/img/playstation/ps1/ace-2.png",
+        "plataforma": "PS1",
+        "ano": 2023,
+        "nota": 100
+    },
+    {
+        "nome": "Placeholder PS1",
+        "capa": "assets/img/playstation/ps1/ps1.png",
+        "plataforma": "PS1",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "25 To Life",
+        "capa": "assets/img/playstation/ps2/25-to-life.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 70
+    },
+    {
+        "nome": "Ace Combat 04: Shattered Skies",
+        "capa": "assets/img/playstation/ps2/ace-4.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 10
+    },
+    {
+        "nome": "Black",
+        "capa": "assets/img/playstation/ps2/black.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty 2: Big Red One",
+        "capa": "assets/img/playstation/ps2/cod-2-big.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 70
+    },
+    {
+        "nome": "Call of Duty: Finest Hour",
+        "capa": "assets/img/playstation/ps2/cod-finest.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 70
+    },
+    {
+        "nome": "Dragon Ball Z: Budokai 3",
+        "capa": "assets/img/playstation/ps2/dbz-budokai-3.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 80
+    },
+    {
+        "nome": "God of War (2005)",
+        "capa": "assets/img/playstation/ps2/god-1.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 90
+    },
+    {
+        "nome": "God of War ll",
+        "capa": "assets/img/playstation/ps2/god-2.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 90
+    },
+    {
+        "nome": "Need for Speed: Most Wanted",
+        "capa": "assets/img/playstation/ps2/nfs-mw.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 90
+    },
+    {
+        "nome": "Need for Speed: Underground 2",
+        "capa": "assets/img/playstation/ps2/nfs-u2.png",
+        "plataforma": "PS2",
+        "ano": 2024,
+        "nota": 80
+    },
+    {
+        "nome": "Saint Seiya: The Hades",
+        "capa": "assets/img/playstation/ps2/ss-hades.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 80
+    },
+    {
+        "nome": "True Crime: New York City",
+        "capa": "assets/img/playstation/ps2/true-crime.png",
+        "plataforma": "PS2",
+        "ano": 2023,
+        "nota": 60
+    },
+    {
+        "nome": "Placeholder PS2",
+        "capa": "assets/img/playstation/ps2/ps2.png",
+        "plataforma": "PS2",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "Placeholder PS3",
+        "capa": "assets/img/playstation/ps3/ps3.png",
+        "plataforma": "PS3",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "Bloodborne",
+        "capa": "assets/img/playstation/ps4/bloodborne.png",
+        "plataforma": "PS4",
+        "ano": 2024,
+        "nota": 100
+    },
+    {
+        "nome": "Placeholder Steam",
+        "capa": "assets/img/pc/steam/pc-steam.png",
+        "plataforma": "Steam",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "Battlefield 4",
+        "capa": "assets/img/pc/steam/bf4.png",
+        "plataforma": "Steam",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Borderlands 2",
+        "capa": "assets/img/pc/steam/border-2.jpg",
+        "plataforma": "Steam",
+        "ano": 2026,
+        "nota": 10
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare (2019)",
+        "capa": "assets/img/pc/steam/cod-mw-19.png",
+        "plataforma": "Steam",
+        "ano": 2026,
+        "nota": 80
+    },
+    {
+        "nome": "Dark Souls: Remastered",
+        "capa": "assets/img/pc/steam/dsr.png",
+        "plataforma": "Steam",
+        "ano": 2025,
+        "nota": 10
+    },
+    {
+        "nome": "Far Cry 5",
+        "capa": "assets/img/pc/steam/fc5.png",
+        "plataforma": "Steam",
+        "ano": 2025,
+        "nota": 70
+    },
+    {
+        "nome": "The Crew 2 🏆",
+        "capa": "assets/img/pc/steam/crew-2.png",
+        "plataforma": "Steam",
+        "ano": 2025,
+        "nota": 80
+    },
+    {
+        "nome": "Tom Clancy's Ghost Recon Wildlands",
+        "capa": "assets/img/pc/steam/ghost-recon-w.png",
+        "plataforma": "Steam",
+        "ano": 2024,
+        "nota": 90
+    },
+    {
+        "nome": "Dark Souls iii",
+        "capa": "assets/img/pc/steam/ds3.jpg",
+        "plataforma": "Steam",
+        "ano": 2026,
+        "nota": 100
+    },
+    {
+        "nome": "Placeholder PC Pirata",
+        "capa": "assets/img/pc/pirata/pc-pirata.png",
+        "plataforma": "PC - Pirata",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "Borderlands",
+        "capa": "assets/img/pc/pirata/border.jpg",
+        "plataforma": "PC - Pirata",
+        "ano": 2024,
+        "nota": 60
+    },
+    {
+        "nome": "Borderlands 2",
+        "capa": "assets/img/pc/pirata/border-2.jpg",
+        "plataforma": "PC - Pirata",
+        "ano": 2024,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty 4: Modern Warfare",
+        "capa": "assets/img/pc/pirata/cod4.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 0
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare 2 Remastered",
+        "capa": "assets/img/pc/pirata/cod-mw2r.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 100
+    },
+    {
+        "nome": "PowerWhash Simulator",
+        "capa": "assets/img/pc/pirata/powerwhash.png",
+        "plataforma": "PC - Pirata",
+        "ano": 2025,
+        "nota": 90
+    },
+    {
+        "nome": "Battlefield 1",
+        "capa": "assets/img/xbox/xbox-xcloud.png",
+        "plataforma": "Xbox - Xcloud",
+        "ano": 2022,
+        "nota": 90
+    },
+    {
+        "nome": "Battlefield 4",
+        "capa": "assets/img/xbox/bf4.png",
+        "plataforma": "Xbox - Xcloud",
+        "ano": 2022,
+        "nota": 90
+    },
+    {
+        "nome": "Battlefield V",
+        "capa": "assets/img/xbox/xbox-xcloud.png",
+        "plataforma": "Xbox - Xcloud",
+        "ano": 2022,
+        "nota": 70
+    },
+    {
+        "nome": "Crackdown 3",
+        "capa": "assets/img/xbox/xbox-xcloud.png",
+        "plataforma": "Xbox - Xcloud",
+        "ano": 2022,
+        "nota": 60
+    },
+    {
+        "nome": "Placeholder PC Port",
+        "capa": "assets/img/pc/port/pc-port.png",
+        "plataforma": "PC - Port",
+        "ano": 0,
+        "nota": 0
+    },
+    {
+        "nome": "Black",
+        "capa": "assets/img/pc/port/pc-port.png",
+        "plataforma": "PC - Port",
+        "ano": 2026,
+        "nota": 10
+    },
+    {
+        "nome": "Placeholder Epic Games",
+        "capa": "assets/img/pc/epic/pc-epic.png",
+        "plataforma": "Epic Games",
+        "ano": 2025,
+        "nota": 60
+    },
+    {
+        "nome": "Placeholder Xbox 360",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2027,
+        "nota": 99
+    },
+    {
+        "nome": "Army of Two",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2018,
+        "nota": 60
+    },
+    {
+        "nome": "Assassin's Creed lll",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2018,
+        "nota": 70
+    },
+    {
+        "nome": "Assassin's Creed: Rogue",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 100
+    },
+    {
+        "nome": "Battlefield 3",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 100
+    },
+    {
+        "nome": "Battlefield Bad Company 2",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Battlestations: Pacific",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2023,
+        "nota": 100
+    },
+    {
+        "nome": "Borderlands 2 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty 4: Modern Warfare 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty: Black Ops ll",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2018,
+        "nota": 90
+    },
+    {
+        "nome": "Call of Duty: Black Ops",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare 2 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty: Modern Warfare 3 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Call of Duty: World at War",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2026,
+        "nota": 80
+    },
+    {
+        "nome": "Call of Juarez: The Cartel",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2024,
+        "nota": 50
+    },
+    {
+        "nome": "Cars 2: The Video Game",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2022,
+        "nota": 60
+    },
+    {
+        "nome": "Crackdown",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 70
+    },
+    {
+        "nome": "Crackdown 2",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 50
+    },
+    {
+        "nome": "Dark Souls 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Dark Souls ll 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 100
+    },
+    {
+        "nome": "Dead Space 2",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 80
+    },
+    {
+        "nome": "Devil May Cry",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2027,
+        "nota": 80
+    },
+    {
+        "nome": "Dirt 3",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 80
+    },
+    {
+        "nome": "Earth Defense Force: Insect Armageddon",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2027,
+        "nota": 70
+    },
+    {
+        "nome": "F.E.A.R 3",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2022,
+        "nota": 80
+    },
+    {
+        "nome": "Far Cry 2",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 100
+    },
+    {
+        "nome": "Far Cry 3: Blood Dragon 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 90
+    },
+    {
+        "nome": "Far Cry 4",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2020,
+        "nota": 90
+    },
+    {
+        "nome": "Farming Simulator 15 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 80
+    },
+    {
+        "nome": "Forza Horizon",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2016,
+        "nota": 100
+    },
+    {
+        "nome": "Forza Horizon 2",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2021,
+        "nota": 80
+    },
+    {
+        "nome": "Grand Theft Auto V",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2020,
+        "nota": 80
+    },
+    {
+        "nome": "Grand Theft Auto: San Andreas 🏆",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2019,
+        "nota": 100
+    },
+    {
+        "nome": "Guittar Hero 3",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2026,
+        "nota": 90
+    },
+    {
+        "nome": "Joy Ride Turbo",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2021,
+        "nota": 60
+    },
+    {
+        "nome": "Kane & Lynch 2: Dog Days",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2017,
+        "nota": 40
+    },
+    {
+        "nome": "LEGO: Batman",
+        "capa": "assets/img/xbox/xbox-360/xbox-360.png",
+        "plataforma": "Xbox 360",
+        "ano": 2022,
+        "nota": 80
+    }
+]

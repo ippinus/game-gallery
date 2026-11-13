@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
 
 :root {
-    --font-primary: "Space Grostek", sans-serif;
-    --font-secondary: "Space Mono", monospace;
-    --black: #0e0e0e;
-    --gray: #1d1d1d;
-    --primary: #7019da;
+    --font: "Titillium Web", sans-serif;
+    --dark-1: #15191F;
+    --dark-2: #1D202B;
     --white-80: rgba(255, 255, 255, .8);
     --white-60: rgba(255, 255, 255, .6);
 
@@ -19,8 +17,8 @@
 }
 
 body {
-    font-family: var(--font-primary);
-    background: var(--black);
+    font-family: var(--font);
+    background: var(--dark-1);
     padding: 128px 15px;
     max-width: 1230px;
     margin: 0 auto;
@@ -30,7 +28,6 @@ img {
     width: 200px;
     height: auto;
     display: block;
-    object-fit: cover;
 }
 
 #galeria {
@@ -44,6 +41,7 @@ img {
     overflow: hidden;
     transition: transform 0.3s ease;
     border-radius: 8px;
+    margin: 0 auto;
 }
 
 .card:hover img {
@@ -52,16 +50,17 @@ img {
 }
 
 .card h2 {
+    text-align: center;
     font-size: 18px;
-    line-height: 28px;
-    max-width: 300px;
     color: var(--white-80);
     margin: 16px 0 8px 0;
 }
 
 .card p {
-    font-family: var(--font-secondary);
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
     color: var(--white-60);
 }
 
@@ -73,9 +72,9 @@ img {
 
 .filtros input,
 .filtros select {
-    background: #1a1a1a;
+    background: var(--dark-2);
     color: #f2f2f2;
-    border: 1px solid #333;
+    border: 1px solid var(--dark-1);
     border-radius: 8px;
     padding: 10px 14px;
     font-family: inherit;

@@ -17,7 +17,7 @@ function renderizar(lista) {
         <article class="card">
           <img src="${jogo.capa}" alt="${jogo.nome}">
           <h2>${jogo.nome}</h2>
-          <p>${jogo.plataforma} · ${jogo.ano} · Nota ${jogo.nota}/10</p>
+          <p>${jogo.plataforma} · ${jogo.ano} · ${jogo.nota}</p>
         </article>`
         )
         .join("");
@@ -44,7 +44,7 @@ function preencherSelect(select, valores) {
     });
 }
 
-fetch("jogos.json")
+fetch("assets/jogos.json")
     .then((resposta) => resposta.json())
     .then((jogos) => {
         todosJogos = jogos;
